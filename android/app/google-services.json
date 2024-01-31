@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555716538397",
+    "project_id": "ashitfood-edd09",
+    "storage_bucket": "ashitfood-edd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555716538397:android:f4d3bc92ceaca116f116f4",
+        "android_client_info": {
+          "package_name": "com.example.food_donation_ashit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUtgBdfWiZnvkl6Cir-i0Xrvh3-Gchxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
